@@ -1,3 +1,4 @@
+# @author Arpan Sarkar
 import smtplib
 import xlrd
 from email.mime.text import MIMEText
